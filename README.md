@@ -28,3 +28,5 @@ The module versions used at time of publication were:
 - <code>scipy 1.16.3</code>
 - <code>matplotlib 3.10.8</code>
 - <code>tqdm 4.67.1</code> (optional but nice)
+
+This software was tested on a personal computer runnning macOS Sequoia 15.6.1. Expected run times are on the order of minutes.
